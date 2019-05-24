@@ -1,0 +1,1 @@
+Caso de prueba donde la salida es todo 0. Es decir, no hay conflictos entre las reinas

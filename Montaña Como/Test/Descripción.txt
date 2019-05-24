@@ -1,0 +1,1 @@
+Caso de prueba con poca cantidad de datos

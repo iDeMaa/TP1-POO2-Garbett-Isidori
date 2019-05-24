@@ -1,0 +1,1 @@
+Caso de prueba donde existe 1 o más conflictos entre las reinas

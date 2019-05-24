@@ -1,0 +1,1 @@
+Caso de prueba donde hay más de un equipo con el mismo puntaje. Produce más de una salida

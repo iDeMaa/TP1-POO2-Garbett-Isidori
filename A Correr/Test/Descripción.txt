@@ -1,0 +1,1 @@
+Caso de prueba donde comprobamos una entrada con pocos datos
